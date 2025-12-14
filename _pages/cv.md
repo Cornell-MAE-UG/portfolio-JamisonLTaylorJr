@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.0/4.0 | Graduation: Month, Year
 
 - **[High School Name]**  
   *High School Diploma*  
@@ -29,8 +29,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS, LabVIEW,   
+- **Programming:** Arduino IDE, MATLAB, Baremetal C++  
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---

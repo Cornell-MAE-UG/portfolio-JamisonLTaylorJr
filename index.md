@@ -6,7 +6,7 @@ title: <Jamison L. Taylor Jr>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "C:\Users\jamis\OneDrive\git\fa25-portfolio-JamisonLTaylorJr\assets\images\profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I am a senior Mechanical Engineering student at Cornell University with a strong focus on hands-on design, prototyping, and interdisciplinary problem-solving. My work centers on turning ideas into functional, well-thought-out systems through iterative design, testing, and refinement. I am especially drawn to projects that sit at the intersection of mechanical design, robotics, and user-focused engineering, where technical performance and real-world impact matter equally.

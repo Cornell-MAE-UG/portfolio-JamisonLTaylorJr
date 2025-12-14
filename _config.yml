@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Jamison L. Taylor Jr
 description              : Jamison L. Taylor Jr - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/Cornell-University-Portfolio-Taylor-Jr/" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
