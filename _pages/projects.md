@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Jamison L. Taylor Jr - Portfolio
 permalink: /projects/
 ---
 
