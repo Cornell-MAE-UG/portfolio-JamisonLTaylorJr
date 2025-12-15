@@ -13,69 +13,62 @@ image: /assets/images/ethics.png
 
 **Overview**
 
-In MAE 4300, I analyzed the Boeing 737 MAX accidents as a case study in engineering ethics, focusing on how technical design decisions, organizational pressure, and regulatory structure combined to produce a major safety failure. This analysis was developed across Weeks 6–9 of the course and applies the ASME Code of Ethics to a real, safety-critical engineering system.
+In MAE 4300, I analyzed the Boeing 737 MAX accidents as a case study in engineering ethics. I focused on how technical design decisions, organizational pressure, and regulatory structure came together to create a major safety failure. This work was developed across Weeks 6–9 of the course and uses the ASME Code of Ethics to evaluate a real, safety critical engineering system.
 
 ---
 
 **Framing the Ethical Problem**
 
-The initial step of this analysis focused on identifying core ethical issues raised by the MCAS system. These issues were framed as questions rather than conclusions, including:
+I began this analysis by identifying the main ethical issues raised by the MCAS system. Instead of jumping to conclusions, I framed them as questions.
 
-- Should Boeing have required additional pilot training when introducing MCAS?
-- Should MCAS functionality and failure modes have been disclosed more clearly to pilots and the FAA?
-- Was it ethically acceptable to certify a flight-critical system with a single-sensor dependency?
-- Should competitive pressure and schedule constraints have influenced safety-related design decisions?
+- Should Boeing have required additional pilot training when MCAS was introduced?
+- Should MCAS functionality and failure modes have been communicated more clearly to pilots and the FAA?
+- Was it acceptable to certify a flight critical system that relied on a single sensor?
+- Should cost, schedule, or competition have influenced safety related design decisions?
 
-These questions reflect ethical tensions between public safety, transparency, professional responsibility, and organizational goals.
+These questions highlight the tension between public safety, transparency, professional responsibility, and organizational goals.
 
 ---
 
 **Relevant Facts and Assumptions**
 
-From a technical perspective, MCAS relied on a single angle-of-attack sensor and could repeatedly command nose-down stabilizer trim without pilot awareness. Redundancy options were technically feasible but not implemented.
+From a technical standpoint, MCAS relied on a single angle of attack sensor and could repeatedly command nose down stabilizer trim without pilots fully understanding why. While redundancy was possible, it was not included in the original system design.
 
-At the organizational level, Boeing operated under intense competitive pressure and within a regulatory framework that delegated significant certification authority to the manufacturer. While some details of internal decision-making remain unclear, it is reasonable to assume that cost, schedule, and market competition influenced engineering and management decisions throughout development.
-
-Clarifying these facts and assumptions was essential for evaluating ethical responsibility without relying on hindsight bias.
+At the organizational level, Boeing was under strong competitive pressure and operated within a certification process that delegated significant authority to the manufacturer. While not all internal decisions are publicly known, it is reasonable to assume that cost, schedule, and market competition influenced engineering and management choices. Separating confirmed facts from assumptions helped avoid relying on hindsight when evaluating ethical responsibility.
 
 ---
 
-**Ethical Analysis Using ASME Canons**
+**Ethical Analysis Using the ASME Canons**
 
 ***ASME Canon 1** – Hold Paramount the Safety, Health, and Welfare of the Public*
 
-This canon was the primary ethical principle applied. Certifying MCAS without redundancy, adequate pilot training, or clear disclosure created foreseeable safety risks. In life-critical systems such as aviation, public safety must override efficiency, cost savings, and competitive advantage.
+This was the most important canon in my analysis. Certifying MCAS without redundancy, adequate pilot training, or clear disclosure created foreseeable safety risks. In aviation, public safety must come before efficiency, cost savings, or competitive advantage.
 
 ***ASME Canon 2** – Perform Services Only in Areas of Competence*
 
-Approving a system that pilots were not adequately trained to understand or respond to raises concerns about professional competence at the system level. Engineering responsibility includes ensuring that users of a system are prepared to interact with it safely.
+Approving a system that pilots were not trained to fully understand raises concerns about competence at the system level. Engineering responsibility includes making sure users are prepared to interact with a system safely.
 
 ***ASME Canon 3** – Issue Public Statements Truthfully and Objectively*
 
-MCAS was not clearly communicated to pilots or the public prior to the accidents. Limited disclosure undermined informed decision-making by pilots and airlines and conflicted with the obligation to provide complete and accurate safety-related information.
+MCAS was not clearly communicated to pilots or the public before the accidents. This limited informed decision making and conflicted with the responsibility to share complete and accurate safety information.
 
 ***ASME Canon 4** – Act as Faithful Agents Without Conflicts of Interest*
 
-Competitive pressure to match Airbus schedules created conflicts between Boeing’s business interests and its duty to protect public safety. Ethical engineering requires resisting pressures that compromise safety-critical decisions.
+Pressure to compete with Airbus created conflicts between Boeing’s business interests and its responsibility to protect public safety. Ethical engineering requires resisting pressures that compromise safety related decisions.
 
 ***ASME Canon 7** – Maintain Professional Integrity*
 
-The cumulative effect of limited transparency, reduced training, and single-point failure risks reflects a broader failure of professional integrity. Ethical responsibility extends beyond meeting minimum regulatory requirements to upholding the spirit of professional standards.
+When viewed together, limited transparency, reduced training, and reliance on a single sensor point to a broader breakdown in professional integrity. Ethical responsibility goes beyond meeting minimum requirements and includes upholding the intent of professional standards.
 
-Across these canons, conflicts consistently resolved in favor of **Canon 1**, reinforcing that public safety takes precedence over all other considerations.
+Across all of these canons, conflicts consistently resolve in favor of **Canon 1**. Public safety must always come first.
 
 ---
 
 **Practical Constraints on Ethical Action**
 
-This case demonstrates how ethical failures can emerge even when individuals recognize risks. Engineers faced:
-- job security concerns and hierarchical pressure  
-- limited system-level visibility due to information silos  
-- regulatory ambiguity caused by delegated certification authority  
-- organizational culture emphasizing speed and cost control 
-- lack of proper top-down view to properly evaluate possible ethical concerns
+This case also shows how ethical failures can happen even when risks are recognized. Engineers faced job security concerns, hierarchical pressure, limited system level visibility, and regulatory ambiguity from delegated certification authority. Organizational culture also emphasized speed and cost control. In addition, there was a lack of a clear top down view to fully evaluate ethical risk.
 
-Recognizing these constraints helps explain how ethical lapses occur without attributing blame to a single individual.
+Recognizing these constraints helps explain how ethical lapses occur without placing blame on a single individual.
 
 ---
 
@@ -88,19 +81,19 @@ Recognizing these constraints helps explain how ethical lapses occur without att
 *Organizational Level*
 - independent internal safety review boards  
 - mandatory simulator training for new automation  
-- transparent communication between engineers, pilots, and regulators  
+- better communication between engineers, pilots, and regulators  
 
 *Systemic Level*
 - reduced delegation of certification authority  
-- stronger regulatory oversight of software-driven flight controls  
-- industry-wide standards requiring redundancy in flight-critical systems  
+- stronger oversight of software driven flight control systems  
+- industry wide standards requiring redundancy in flight critical systems  
 
-Ethical engineering must be supported by systems and structures, not reliant on individual courage alone.
+Ethical engineering needs to be supported by systems and structure. It cannot rely only on individual courage.
 
 ---
 
 **Personal Reflection**
 
-This case reinforced that ethics is inseparable from engineering practice. Design decisions, training requirements, and communication choices all carry ethical weight. As a mechanical engineer interested in product design, this analysis has shaped how I approach my design ideation when safety, automation, and human interaction intersect.
+This case reinforced for me that ethics is not separate from engineering practice. Design decisions, training requirements, and communication choices all have real consequences. As a mechanical engineer interested in product design, this analysis has shaped how I approach design ideation when safety, automation, and human interaction intersect.
 
 ---
